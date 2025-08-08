@@ -42,7 +42,7 @@ Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior Fr
 Se você gostou dos meus projetos e quer conversar, estou disponível:
 
 - ✉️ Email: **igor1672@hotmail.com**
-- 💼 LinkedIn: [linkedin.com/in/seulink](https://www.linkedin.com/in/igor-oliveira-206b64237/) 
+- 💼 LinkedIn: [https://www.linkedin.com/in/igor-oliveira-206b64237/](https://www.linkedin.com/in/igor-oliveira-206b64237/) 
 - 🌎 Localização: Salvador – BA
 
 ---
