@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Igor! 👋</h1> 
+<h1 align="center">Olá, eu sou o Igor! 👋</h1>
 
 <p align="center">
   💻 Desenvolvedor Front-End em formação | 🎯 Em busca de uma oportunidade para crescer profissionalmente
@@ -14,7 +14,7 @@ Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior Fr
 
 ---
 
-### 🛠️ Tecnologias que estou estudando
+### 🛠️ Tecnologias que sei / estou estudando
 
 - 🌐 HTML5 | CSS3
 - ⚙️ JavaScript (ES6+) | TypeScript
@@ -35,6 +35,15 @@ Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior Fr
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IgorBRG&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBRG&layout=compact&langs_count=8"/>
+</div>
+
+---
+
 ### 📫 Contato
 
 Se você gostou dos meus projetos e quer conversar, estou disponível:
@@ -46,5 +55,3 @@ Se você gostou dos meus projetos e quer conversar, estou disponível:
 ---
 
 > *“O sucesso é a soma de pequenos esforços repetidos dia após dia.”*
-
-
