@@ -31,7 +31,7 @@ Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior Fr
 |--------|-----------|-------------|------|
 | **Calculadora de Combustível** | Simula o gasto em uma viagem com base no consumo do carro | HTML, CSS, JS | [🔗 Acessar](https://github.com/IgorBRG/Desafio-sprint-2) |
 | **Página de Portfólio Simples** | Projeto HTML/CSS com layout responsivo | HTML, CSS | [🔗 Acessar](https://github.com/IgorBRG/Projeto-css-e-html) |
-| **Projeto Final - Curso Ford Enter** | Dashboard automotiva feita com Angular | Angular, TypeScript, HTML, CSS | [🔗 Acessar](https://dashboardautomotiva.netlify.app/principal) |
+| **Projeto Final - Curso Ford Enter** | Dashboard automotiva feita com Angular | Angular, TypeScript, HTML, CSS | [🔗 Acessar](https://dashboardautomotiva.netlify.app) |
 
 ---
 
